@@ -1,3 +1,5 @@
 Aquest és el primer fitxer de l'exercici 1.
 
 Modifiquem el fitxer1 des de master.
+
+Estem modificant el contingut des de la branch 1.
