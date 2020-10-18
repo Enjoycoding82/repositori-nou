@@ -1,1 +1,3 @@
 Aquest és el primer fitxer de l'exercici 1.
+
+Estem modificant el contingut des de la branch 1.
